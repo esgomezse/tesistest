@@ -17,7 +17,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Guaca preciosaa"
+        android:text="Yo te amo más que a las peras :B"
+        android:textStyle="bold|italic"
         android:textColor="@color/butonColor"
         android:textSize="24sp"
         android:textAlignment="center"
