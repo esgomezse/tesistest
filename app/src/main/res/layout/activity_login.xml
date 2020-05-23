@@ -17,6 +17,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="Eres lo mas hermoso que he tenido en mi vida <3"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="GestionDAPP"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="40dp"
