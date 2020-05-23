@@ -10,6 +10,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@drawable/umb_logo"
         android:layout_gravity="center"
         android:layout_marginTop="50dp" />
 
@@ -45,6 +46,7 @@
         android:textAllCaps="false"
         android:layout_gravity="center"
         android:textColor="@android:color/white"
+        android:background="@color/butonColor"
         android:layout_marginTop="20dp"
         android:padding="15dp" />
 </LinearLayout>
